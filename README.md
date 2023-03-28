@@ -1,1 +1,1 @@
-# Card_sender_automate
+# Card_sender_automated
